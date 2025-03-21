@@ -1,2 +1,2 @@
-# jamescrummack.github.io
-Website
+# jamescrummack.co.uk
+GitHub Pages Hosted Website.
